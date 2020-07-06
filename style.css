@@ -1,0 +1,16 @@
+body {
+
+	background-color: black;
+}
+
+.container {
+
+	max-width: 800px;
+
+}
+
+h1.baseline {
+	color: white;
+	margin-top: 40%;
+	text-align: justify;
+}
